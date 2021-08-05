@@ -6,5 +6,5 @@ just run this command:
 
 
 ```bash
-curl https://github.com/ben113dion/cbot/raw/main/install.sh > install.sh && ./install.sh
+curl https://github.com/ben113dion/cbot/main/install.sh > install.sh && ./install.sh
 ```
