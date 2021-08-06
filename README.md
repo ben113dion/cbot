@@ -18,7 +18,7 @@ curl https://raw.githubusercontent.com/ben113dion/cbot/main/install.sh > install
 ```
 
 If you have homebrew, add this to your .zshrc:
-``
+```
 alias cbot="python3 /Users/bdion/.cbot.py"
 ```
 and and run this command:
