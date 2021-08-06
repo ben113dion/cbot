@@ -8,7 +8,7 @@ After installation simply run:
 cbot "file" "sec"
 ```
 
-\n\n
+
 
 
 
