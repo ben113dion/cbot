@@ -1,4 +1,4 @@
-# cbot (42Quebec)
+# Cbot (42Quebec)
 GCC + Norminette (BOT)
 
 Cbot is a simple program who will compile, run and norminette your 
