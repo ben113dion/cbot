@@ -2,10 +2,10 @@
 GCC + Norminette (BOT)
 
 Cbot is a simple program who will compile, run and norminette your 
-files("file") each seconds("sec").
+command("command").
 After installation simply run:
 ```
-cbot "file" "sec"
+cbot "command"
 ```
 
 
